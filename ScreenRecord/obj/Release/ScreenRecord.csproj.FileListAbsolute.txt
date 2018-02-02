@@ -1,0 +1,27 @@
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csprojResolveAssemblyReference.cache
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.Cache
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+E:\Distib\VisualStudioProjects\CSharp\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe.config
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.exe
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.pdb
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.exe
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\bin\Release\ScreenRecord.pdb
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.dll
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\bin\Release\AForge.Video.FFMPEG.dll
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\bin\Release\AForge.dll
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\bin\Release\AForge.xml
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csprojResolveAssemblyReference.cache
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Form1.resources
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.Properties.Resources.resources
+C:\Users\Everest\Desktop\ScreenRecord\ScreenRecord\obj\Release\ScreenRecord.csproj.GenerateResource.Cache
+E:\C #DERSLER Açıklamalı\Video Kaydet\ScreenRecord\bin\Release\ScreenRecord.exe.config
+E:\C #DERSLER Açıklamalı\Video Kaydet\ScreenRecord\obj\Release\ScreenRecord.exe
+E:\C #DERSLER Açıklamalı\Video Kaydet\ScreenRecord\obj\Release\ScreenRecord.pdb
